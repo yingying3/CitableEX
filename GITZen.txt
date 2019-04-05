@@ -1,2 +1,7 @@
 While tages are really useful to point to a particular commit, they don't give a single access point.
-Thankfully, github, in partnership with Zenodo, has a system to provide Digital Object Identifieers for particular tags
+Thankfully, github, in partnership with Zenodo, has a system to provide Digital Object Identifieers for particular tags.
+
+It's time to make a few commits. 
+Date: 05/04/2019
+Location: Black Mountain
+
