@@ -5,3 +5,7 @@ It's time to make a few commits.
 Date: 05/04/2019
 Location: Black Mountain
 
+Topic today is Git_advanced regarding Git branching.
+Lecturer: Alex.
+Time: 9.30am to 4.30pm
+Weather: Cloudy
